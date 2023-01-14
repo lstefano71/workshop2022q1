@@ -1,2 +1,2 @@
-FROM dyalog/jupyter:22f9
+FROM dyalog/jupyter:latest
 COPY ./Part1/ ${HOME}        
